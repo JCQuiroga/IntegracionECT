@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="dc9d9fea-2c0e-4666-9f7d-d0649680fbfa" 
+        solutionId="dc9d9fea-2c0e-4666-9f7d-d0649680fbfa" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="IntegracionECT"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="c2e04e49-636b-4f6a-b80d-e053d11f6d21" />
+  </features>
+</package>
